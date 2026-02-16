@@ -220,7 +220,7 @@ document.addEventListener('DOMContentLoaded', function() {
                         from_email: formData.email,
                         phone: formData.phone,
                         message: formData.message,
-                        to_email: 'your-email@example.com' // Your email address to receive inquiries
+                        to_email: 'tracrevai@gmail.com'
                     }
                 );
                 
