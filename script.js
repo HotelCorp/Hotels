@@ -214,7 +214,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 // - template_id: your template ID
                 const response = await emailjs.send(
                     'service_7uuaw4w',      // Replace with your EmailJS service ID
-                    '',     // Replace with your EmailJS template ID
+                    'template_y6e1yna',     // Replace with your EmailJS template ID
                     {
                         from_name: formData.name,
                         from_email: formData.email,
