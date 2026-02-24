@@ -180,7 +180,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Initialize EmailJS
     (function() {
-        emailjs.init("saPI9mIjUc9HCNhRD"); // You'll need to replace this with your EmailJS public key
+        emailjs.init("4FeP43d07wLEHYR0K"); // You'll need to replace this with your EmailJS public key
     })();
 
     // Contact form handling
